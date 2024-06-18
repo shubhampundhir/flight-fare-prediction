@@ -1,4 +1,4 @@
-# Indian Flight Fare Prediction WEB-APP✈️🎟️
+# Indian Flight Fare Prediction WEB-APP✈️🎟
 
 App: https://air-fare-india.herokuapp.com
 
