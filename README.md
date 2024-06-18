@@ -19,7 +19,7 @@ Machine Learning based web-app which can predict the Price of flight fare (aprro
   3. Create a web app which can predict the Price
   4. Make this web app available on PCs and phones.
  
- # Approcach:
+ # Approach:
       
 - Collected spreadsheets from **Kaggle**
 - There are two spreadsheets - Training and Testing
