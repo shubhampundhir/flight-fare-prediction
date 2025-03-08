@@ -1,6 +1,4 @@
-# Indian Flight Fare Prediction WEB-APP✈️🎟
-
-App: https://air-fare-india.herokuapp.com
+# Indian Flight Fare Prediction ✈️🎟
 
 Machine Learning based web-app which can predict the Price of flight fare (aprroximately). Taking inputs those are
 1. Departure Time
